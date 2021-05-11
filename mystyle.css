@@ -1,0 +1,115 @@
+body
+{
+    background-color:ghostwhite;
+    font-family: 'Calibri';
+    font-size: 17px;
+    color:rgb(10, 96, 146);
+    font-weight: bold;
+}
+h1
+{
+font-size: 31px;    
+margin-top: 0px;
+color:rgb(10, 96, 146);
+text-align:center;
+/*background-color: rgba(206, 199, 199, 0.918);*/
+}
+.tab180 
+{
+    display: inline-block;
+    margin-left: 160px;
+}
+.newcustomer
+{
+    /*background-color: teal*/
+    box-shadow: dodgerblue;
+    margin-top: 0px;
+    margin-left: 150px;
+}
+input[type=text] {
+    width: 55%;
+    padding: 6px 15px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    /*border: 1px solid rgb(0, 132, 255)*/;
+  }
+  input[type=date] {
+    width: 20%;
+    padding: 4px 10px;
+    margin: 3px 0px;
+    box-sizing: border-box;
+  }
+#accounttype
+{
+    width: 20%;
+    padding: 6px 15px;
+    margin: 2px 10px;
+    box-sizing: border-box;  
+}
+#sno
+{
+    width: 5%;
+    padding: 4.5px 15px;
+    margin: 2px 0;
+    box-sizing: border-box;
+}
+#pno
+{
+    width: 20%; 
+}
+.button1
+{
+    text-align: center;
+    margin-left: 150px;
+    background-color: rgba(0, 128, 0, 0.815);
+    padding: 8px 20px;
+    cursor: pointer;
+}
+.button2
+{
+    text-align: center;
+    margin-left: 10px;
+    background-color: rgba(204, 32, 32, 0.815);
+    padding: 8px 20px;
+    cursor: pointer;
+}
+p
+{
+    font-size: 19px; 
+    color: gray;
+}
+/*.nbar
+{
+    text-align: right;
+color:gray
+}*/
+li 
+{
+    float: left;
+    
+}
+li a
+{
+    text-align: center;
+    display: block;
+    padding: 10px;
+    color: rgb(10, 12, 146);
+    padding: 8px 15px;
+    text-decoration: none;
+    margin-left: 135px;
+    
+}
+ul 
+{   
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(172, 168, 168, 0.952);
+    list-style-type: none;
+    
+  }
+  li a:hover {
+    background-color: rgb(36, 144, 194);
+  }
+
+  
